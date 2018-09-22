@@ -4,7 +4,7 @@ Steps to try out the sample
 
 1) cd 'docker-starter-with-php' directory
 
-2) Build the docker image tagged as hello-world in the same directory.
+2) Build a docker image tagged as hello-world in the same directory.
    
    docker build -t hello-world .  
    
